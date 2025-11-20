@@ -4,7 +4,7 @@
 
 This Pathfinder Fork is an attempt to make a community supported fork in the absence of [Exodus4d](https://github.com/exodus4d) that will include bug fixes and be upgraded for any changes to the Eve Online universe.
 
-**For installation please see our [Docker-compose solution](https://github.com/goryn-clade/pathfinder-containers) that includes a detailed guide on how to get up and running.**
+**For installation please see our ~~[Docker-compose solution](https://github.com/goryn-clade/pathfinder-containers)~~ [Docker-compose-solution](https://github.com/temetvince/pathfinder-containers) that includes a detailed guide on how to get up and running.**
 
 If you wish to contribute please join the [Pathfinder Slack](https://join.slack.com/t/pathfinder-eve-online/shared_invite/enQtMzMyOTkyMjczMTA3LWI2NGE1OTY5ODBmNDZlMDY3MDIzYjk5ZTljM2JjZjIwNDRkNzMyMTEwMDUzOGQwM2E3ZjE1NGEwNThlMzYzY2Y).
 
